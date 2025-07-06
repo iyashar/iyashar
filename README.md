@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @iyashar<br>👀 I’m interested in Data and business data analysis.<br>🌱 I’m currently learning Data science by Python<br>💞️ I’m looking to collaborate on data analysis or BI projects.<br>📫 How to reach me: yashara@live.com
+👋 Hi, I’m @iyashar<br>👀 I’m interested in Data and business data analysis.<br>🌱 I’m enthusiastic about working offline by AI<br>💞️ I’m looking to collaborate on data analysis or BI projects.<br>📫 How to reach me: yashara@live.com
 
 
 ## 🌐 Socials:
